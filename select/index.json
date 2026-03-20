@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Identity Crisis",
+  "base_artist": "CaYOCO",
+  "createdAt": "2026-03-20T14:55:54.639720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/01_Identity_Crisis_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Thrice",
+      "has_synced": true,
+      "path": "select/02_Identity_Crisis_Thrice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Matt Simons",
+      "has_synced": true,
+      "path": "select/03_Identity_Crisis_Matt_Simons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "NANO",
+      "has_synced": false,
+      "path": "select/04_Identity_Crisis_NANO.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hollywood Identity Crisis (Skit)",
+      "artist": "Sylvan LaCue",
+      "has_synced": false,
+      "path": "select/05_Hollywood_Identity_Crisis_(Skit)_Sylvan_LaCue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hollywood Identity Crisis",
+      "artist": "Sylvan LaCue",
+      "has_synced": false,
+      "path": "select/06_Hollywood_Identity_Crisis_Sylvan_LaCue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Sweet",
+      "has_synced": true,
+      "path": "select/07_Identity_Crisis_Sweet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Pigeon John",
+      "has_synced": true,
+      "path": "select/08_Identity_Crisis_Pigeon_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "The Sweet",
+      "has_synced": true,
+      "path": "select/09_Identity_Crisis_The_Sweet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Identity Crisis Intro",
+      "artist": "Tedashii",
+      "has_synced": true,
+      "path": "select/10_Identity_Crisis_Intro_Tedashii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Screeching Weasel",
+      "has_synced": false,
+      "path": "select/11_Identity_Crisis_Screeching_Weasel.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Tamta",
+      "has_synced": true,
+      "path": "select/12_Identity_Crisis_Tamta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wanna Be pt. 2 ~ Identity Crisis",
+      "artist": "Koa",
+      "has_synced": true,
+      "path": "select/13_Wanna_Be_pt._2_~_Identity_Crisis_Koa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Identity Crisis",
+      "artist": "Dark Thoughts",
+      "has_synced": true,
+      "path": "select/14_Identity_Crisis_Dark_Thoughts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Identity Crisis",
+      "artist": "CaYOCO",
+      "has_synced": false,
+      "path": "select/pl_01_Identity_Crisis_CaYOCO.txt"
+    }
+  ]
+}
